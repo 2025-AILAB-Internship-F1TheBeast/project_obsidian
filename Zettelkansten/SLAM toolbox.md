@@ -90,6 +90,13 @@ slam_toolbox:
 
 ```
 
+
+
+## Update config files
+> base_footprint -> base_link  
+
+![](../Files/slam-toolbox-config-update.png)
+
 ---
 ## References
 [Localization 1. Odom 토픽 만들기 (rf2o laser odometry) 및 SLAM Tool Box로 맵 만들기](https://zynar.tistory.com/320)
