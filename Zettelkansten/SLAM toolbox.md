@@ -95,6 +95,8 @@ slam_toolbox:
 ## Update config files
 > base_footprint -> base_link  
 
+also can update at `opt/ros/humble/share/slam_toolbox/config/mapper_params_online_async.yaml`
+
 ![](../Files/slam-toolbox-config-update.png)
 
 ---
