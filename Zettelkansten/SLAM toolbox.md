@@ -89,3 +89,7 @@ slam_toolbox:
     use_response_expansion: true
 
 ```
+
+---
+## References
+
